@@ -1,0 +1,24 @@
+# Build artifacts
+*.so
+*.o
+*.a
+
+# Backup files
+*.bak
+*~
+
+# Temporary files
+.DS_Store
+*.tmp
+*.swp
+
+# IDE files
+.vscode/
+.idea/
+
+# Test executables
+test_core
+web3_auth_test
+
+# Docker build cache
+.dockerignore 
